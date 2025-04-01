@@ -1,5 +1,5 @@
 # Reservia Project
-Second project of the Openclassroom web developer course. The main goal of this project is to integrate a responsive HTML and CSS model of the Reservia website, a website for planning vacations and booking accommodations and activities in the city of the client's choice.
+The main goal of this project is to integrate a responsive HTML and CSS model of the Reservia website, a website for planning vacations and booking accommodations and activities in the city of the client's choice.
 
 ![Desktop - 1](https://user-images.githubusercontent.com/78428426/127329097-87974647-2808-4775-8af4-24bbafb902ef.png)
 
